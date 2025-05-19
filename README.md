@@ -3,7 +3,7 @@
 ## Estudante de Análise e Desenvolvimento de Sistemas | Git | Python
 
 [![Linkedin Badge](https://img.shields.io/badge/-Meu%20LinkedIn-F2F0E3?style=flat-square&logo=Linkedin&logoColor=212121&link=https://www.linkedin.com/in/terry-roger/)](https://www.linkedin.com/in/iuricode/) 
-[![Gmail Badge](https://img.shields.io/badge/-iuricold99@gmail.com-F2F0E3?style=flat-square&logo=Gmail&logoColor=212121&link=mailto:terryrogerps@gmail.com)](mailto:iuricold99@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-terryrogerps@gmail.com-F2F0E3?style=flat-square&logo=Gmail&logoColor=212121&link=mailto:terryrogerps@gmail.com)](mailto:terryrogerps@gmail.com)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
